@@ -6,9 +6,11 @@
 /*   By: jolandesteenput <jolandesteenput@studen    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/04/11 16:53:03 by jsteenpu          #+#    #+#             */
-/*   Updated: 2023/10/17 15:25:32 by jolandestee      ###   ########.fr       */
+/*   Updated: 2023/10/17 18:29:14 by jolandestee      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include "libft.h"
 
 long	ft_atoi(const char *str)
 {
